@@ -60,6 +60,7 @@ public  testSelectionSort () {
 	    Sortedarr[2] = -9;
 	    Sortedarr[3] = -6;
 	    Sortedarr[4] = -2;
+			//l
 
 	    SelectionSort test2 = new  SelectionSort();
 	    int [] ss2 =test2.sort(arr);
