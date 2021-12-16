@@ -60,7 +60,7 @@ public  testSelectionSort () {
 	    Sortedarr[2] = -9;
 	    Sortedarr[3] = -6;
 	    Sortedarr[4] = -2;
-//new
+
 	    SelectionSort test2 = new  SelectionSort();
 	    int [] ss2 =test2.sort(arr);
 	    assertArrayEquals("Test negative fails",ss2,Sortedarr);
